@@ -1,0 +1,22 @@
+file_type: csv
+dataset_name: match_data
+file_name: match_data
+table_name: tehetab
+delimiter: '|'
+skip_leading_rows: 1
+columns:
+- Unnamed0
+- gameCreation
+- gameDuration
+- gameId
+- gameMode
+- gameType
+- gameVersion
+- mapId
+- participantIdentities
+- participants
+- platformId
+- queueId
+- seasonId
+- status_message
+- status_status_code
